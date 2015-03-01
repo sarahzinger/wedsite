@@ -5,6 +5,16 @@ h1{
 	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 	
 }
+.video{
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+	height: 50%;
+}
+.tumblr-post{
+	width: 50%;
+	height: 50%;
+}
 #important{
 	margin-top: 10%;
 	width:50%;
